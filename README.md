@@ -2,4 +2,4 @@ I'm Fürst. I currently do mostly k8s related stuff, or work on some personal pr
 
 I got a [blog](https://blog.furst.blue) that I sometimes update :3
 
-[[916A AC90 A025 C023 DEDE  F1D2 90A1 85A3 8841 3672]](https://gist.github.com/furstblumier/2ecd290357f3181f46afc8178009572d)
+[[F3D8 B9C3 A7A4 5BF1 7C65  BB1F 54A9 21AC 3927 9565]](https://gist.github.com/furstblumier/2ecd290357f3181f46afc8178009572d)
